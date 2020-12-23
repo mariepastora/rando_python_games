@@ -1,3 +1,3 @@
 # rando_python_games
 
-guess i'm bored
+lazy command line games
